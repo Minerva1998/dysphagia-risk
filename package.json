@@ -15,7 +15,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.24"
+    "postcss": "^8.4.24",
+    "typescript": "^5.4.2",
+    "@types/react": "^18.2.37",
+    "@types/node": "^20.11.24"
   },
   "engines": {
     "node": ">=20"
